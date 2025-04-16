@@ -3,5 +3,6 @@ This is feature branch updates.
 This is master Branch update.
 The commit is second commit from feature branch
 The is second commit from master branch.
+Hello word master branch.
 
 
