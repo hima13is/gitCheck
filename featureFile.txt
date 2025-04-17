@@ -9,6 +9,7 @@ This is a new message in main branch.
 =======
 {"message" : "This is main branch second message"},{"Code" : "201"}
 >>>>>>> 08026d50200ca55f05922520e6b06313e250f8ac
-
+Newfeature branch commit.
+This commit is from newFeature branch.
 
 
