@@ -1,2 +1,4 @@
 This is the feature branch which holds logic for for each scope.
+This is the feature branch which holds additional logic for each scope.
 This is the main branch logic for for each scope.
+
